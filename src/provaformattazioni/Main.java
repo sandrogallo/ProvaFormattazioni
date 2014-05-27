@@ -1,6 +1,5 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * Prova Formattazioni
  */
 
 package provaformattazioni;
@@ -19,6 +18,6 @@ public class Main {
         for (float f=8; f<12; f+=0.5) {
             System.out.printf("%6.2f\n", f);
         }
-
+        
     }
 }
