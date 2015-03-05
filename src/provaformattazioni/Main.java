@@ -6,7 +6,7 @@ package provaformattazioni;
 
 /**
  *
- * @author sandro.gallo
+ * @author belguest
  */
 public class Main {
 
